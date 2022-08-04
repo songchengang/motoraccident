@@ -1,0 +1,188 @@
+X,Y,count,ACCIDENT_NO,Year,Quarter,AGE,RD_U_DESC,SEX,N_TYPE_DES,Region,DAY_OF_WEEK,Day Week Description,Light,NO_PERSONS_KILLED,Road,Speed,Weather,Death,NO_PERSONS,Lng,Lat
+2508215.796,2400842.975,1,T20150013823,2015,3,39,Motorcyclists,M,Intersection,MONASH,4,Wednesday,Dark Street lights on,1,Cross intersection,60,Clear,0.25,4,145.0934073,-37.89348218
+2508126.719,2488400.553,1,T20150014077,2015,3,49,Motorcyclists,M,Non Intersection,MITCHELL,7,Saturday,Day,1,Not at intersection,110,Clear,0.5,2,145.0914385,-37.10450028
+2204276.744,2359147.484,1,T20150017566,2015,3,36,Motorcyclists,M,Non Intersection,GLENELG,1,Sunday,Dark No street lights,1,Not at intersection,80,Clear,1,1,141.6224429,-38.22188892
+2512742.365,2405489.484,1,T20150019033,2015,3,32,Motorcyclists,M,Non Intersection,WHITEHORSE,1,Sunday,Day,1,Not at intersection,80,Clear,1,1,145.1447906,-37.85156699
+2537285.012,2423589.88,1,T20150019565,2015,3,40,Motorcyclists,F,Non Intersection,YARRA RANGES,1,Sunday,Day,1,Not at intersection,100,Clear,0.2,5,145.4227511,-37.68782013
+2508336.343,2421908.134,1,T20150019786,2015,3,31,Motorcyclists,M,Intersection,BANYULE,4,Wednesday,Dark Street lights on,1,Cross intersection,60,Clear,0.5,2,145.09454,-37.70368208
+2715530.047,2400131.218,1,T20150020725,2015,4,53,Motorcyclists,F,Non Intersection,EAST GIPPSLAND,4,Wednesday,Dusk/Dawn,1,Not at intersection,100,Clear,0.333333333,3,147.4500806,-37.8749417
+2519586.183,2391930.132,1,T20150021507,2015,4,31,Motorcyclists,M,Intersection,DANDENONG,7,Saturday,Dark Street lights on,1,Cross intersection,60,Clear,0.5,2,145.2229169,-37.9736128
+2524734.409,2469466.823,1,T20150021550,2015,4,47,Motorcyclists,M,Non Intersection,MURRINDINDI,1,Sunday,Day,1,Not at intersection,100,Clear,1,1,145.2789248,-37.27483685
+2531888.424,2588536.405,1,T20150022156,2015,4,52,Motorcyclists,M,Non Intersection,SHEPPARTON,2,Monday,Day,1,Not at intersection,100,Clear,1,1,145.3545972,-36.20153001
+2515994.248,2381943.797,1,T20150022391,2015,4,50,Motorcyclists,M,Non Intersection,DANDENONG,5,Thursday,Dusk/Dawn,1,Not at intersection,80,Clear,0.333333333,3,145.1822536,-38.06365049
+2505290.464,2404226.428,1,T20150023839,2015,4,28,Motorcyclists,M,Non Intersection,STONNINGTON,4,Wednesday,Day,1,Not at intersection,100,Clear,0.25,4,145.0601243,-37.86301923
+2503130.337,2406304.5,1,T20150024295,2015,4,61,Motorcyclists,M,Intersection,STONNINGTON,3,Tuesday,Day,1,T intersection,60,Clear,0.333333333,3,145.0355664,-37.84430581
+2499800.976,2402531.156,1,T20150025544,2015,4,31,Motorcyclists,M,Intersection,GLEN EIRA,4,Wednesday,Day,1,T intersection,60,Clear,0.5,2,144.9977377,-37.87830836
+2495653.006,2406239.129,1,T20150026735,2015,4,32,Motorcyclists,M,Non Intersection,PORT PHILLIP,4,Wednesday,Day,1,Not at intersection,40,Clear,0.333333333,3,144.9506098,-37.8448899
+2516236.298,2409251.696,1,T20160000068,2016,1,25,Motorcyclists,M,Non Intersection,WHITEHORSE,6,Friday,Dusk/Dawn,1,Not at intersection,80,Clear,1,1,145.184409,-37.81761522
+2543587.377,2365013.165,1,T20160000638,2016,1,41,Motorcyclists,M,Intersection,CARDINIA,1,Sunday,Day,1,T intersection,100,Clear,0.333333333,3,145.4976805,-38.21528449
+2506215.519,2392657.54,1,T20160000968,2016,1,22,Motorcyclists,M,Intersection,KINGSTON,5,Thursday,Day,1,T intersection,60,Clear,0.5,2,145.0707349,-37.96724507
+2482055.259,2417437.501,1,T20160001863,2016,1,27,Motorcyclists,M,Intersection,BRIMBANK,4,Wednesday,Day,1,Cross intersection,60,Clear,0.5,2,144.7963857,-37.74382853
+2601828.698,2332195.808,1,T20160001982,2016,1,41,Motorcyclists,M,Intersection,SOUTH GIPPSLAND,5,Thursday,Day,1,T intersection,100,Clear,0.333333333,3,146.1672263,-38.50629198
+2525502.032,2405397.291,1,T20160002327,2016,1,18,Motorcyclists,M,Non Intersection,KNOX,3,Tuesday,Day,1,Not at intersection,50,Clear,0.5,2,145.2897803,-37.85213525
+2496274.352,2423696.246,1,T20160002505,2016,1,45,Motorcyclists,M,Non Intersection,HUME,5,Thursday,Day,1,Not at intersection,70,Clear,0.333333333,3,144.9577575,-37.68760021
+2257555.524,2776005.293,1,T20160002719,2016,1,38,Motorcyclists,M,Non Intersection,MILDURA,7,Saturday,Dark No street lights,1,Not at intersection,100,Clear,1,1,142.3624664,-34.48259036
+2604411.772,2366011.974,1,T20160002812,2016,1,44,Motorcyclists,M,Intersection,BAW BAW,2,Monday,Day,1,T intersection,100,Clear,0.5,2,146.191979,-38.20142475
+2483738.905,2415136.672,1,T20160002821,2016,1,32,Motorcyclists,M,Non Intersection,BRIMBANK,2,Monday,Day,1,Not at intersection,60,Clear,0.25,4,144.8154389,-37.76459049
+2473562.364,2391988.301,1,T20160002918,2016,1,45,Motorcyclists,M,Non Intersection,WYNDHAM,3,Tuesday,Dark Street lights on,1,Not at intersection,60,Clear,1,1,144.6991069,-37.97291892
+2551806.263,2381289.784,1,T20160003012,2016,1,55,Motorcyclists,M,Intersection,CARDINIA,4,Wednesday,Dark No street lights,1,T intersection,100,Clear,0.2,5,145.590369,-38.06823327
+2401698.309,2490141.645,1,T20160003874,2016,1,60,Motorcyclists,M,Non Intersection,CENTRAL GOLDFIELDS,1,Sunday,Day,1,Not at intersection,100,Clear,0.5,2,143.894227,-37.08369964
+2580104.342,2431439.071,1,T20160003886,2016,1,36,Motorcyclists,M,Non Intersection,YARRA RANGES,1,Sunday,Day,1,Not at intersection,80,Clear,0.125,8,145.9073826,-37.61440017
+2573472.414,2375694.195,1,T20160004092,2016,1,61,Motorcyclists,M,Non Intersection,BAW BAW,3,Tuesday,Dusk/Dawn,1,Not at intersection,80,Clear,0.5,2,145.8378204,-38.11717782
+2512269.052,2376946.244,1,T20160004106,2016,1,39,Motorcyclists,M,Non Intersection,FRANKSTON,4,Wednesday,Day,1,Multiple intersection,60,Clear,0.333333333,3,145.139889,-38.10872974
+2494228.031,2410789.647,1,T20160004157,2016,1,56,Motorcyclists,M,Non Intersection,MELBOURNE,4,Wednesday,Day,1,Not at intersection,50,Clear,0.5,2,144.934455,-37.80388198
+2608065.483,2506705.655,1,T20160004227,2016,1,75,Motorcyclists,M,Non Intersection,MANSFIELD,5,Thursday,Day,1,Not at intersection,100,Clear,1,1,146.2132179,-36.93336124
+2511865.809,2418394.791,1,T20160004434,2016,1,43,Motorcyclists,M,Non Intersection,BANYULE,7,Saturday,Dark Street lights on,1,Not at intersection,80,Clear,0.333333333,3,145.134623,-37.73530036
+2516773.76,2361760.424,1,T20160005245,2016,1,36,Motorcyclists,M,Non Intersection,MORNINGTON PENINSULA,3,Tuesday,Dark No street lights,1,Not at intersection,80,Clear,0.5,2,145.191599,-38.24546021
+2500760.497,2426335.081,1,T20160005559,2016,1,44,Motorcyclists,M,Non Intersection,WHITTLESEA,7,Saturday,Day,1,Not at intersection,50,Clear,1,1,145.00862,-37.66383002
+2629230.868,2363820.726,1,T20160005706,2016,1,69,Motorcyclists,M,Intersection,LATROBE,2,Monday,Day,1,T intersection,80,Clear,0.333333333,3,146.4756639,-38.21802993
+2521976.787,2378558.593,1,T20160005813,2016,1,58,Motorcyclists,M,Intersection,CASEY,3,Tuesday,Day,1,T intersection,50,Clear,1,1,145.2505256,-38.09402504
+2446061.128,2370125.551,1,T20160006324,2016,1,26,Motorcyclists,M,Intersection,GEELONG,2,Monday,Dark Street lights on,1,Cross intersection,70,Clear,1,1,144.3845065,-38.16868555
+2527204.454,2400802.049,1,T20160007709,2016,2,29,Motorcyclists,M,Intersection,KNOX,6,Friday,Day,1,T intersection,70,Clear,0.5,2,145.3092945,-37.89348907
+2507383.761,2408517.205,1,T20160008015,2016,2,28,Motorcyclists,M,Non Intersection,BOROONDARA,3,Tuesday,Day,1,Not at intersection,60,Clear,0.5,2,145.0838709,-37.82434537
+2491690.137,2412980.102,1,T20160008647,2016,2,26,Motorcyclists,M,Intersection,MOONEE VALLEY,4,Wednesday,Day,1,T intersection,60,Clear,0.333333333,3,144.9056599,-37.78412652
+2529218.043,2437927.169,1,T20160008952,2016,2,21,Motorcyclists,M,Non Intersection,NILLUMBIK,1,Sunday,Day,1,Not at intersection,60,Clear,0.25,4,145.330721,-37.55891965
+2515059.159,2431069.484,1,T20160010029,2016,2,47,Motorcyclists,M,Non Intersection,NILLUMBIK,7,Saturday,Day,1,Not at intersection,80,Clear,1,1,145.1705952,-37.62104872
+2518126.593,2350909.49,1,T20160010764,2016,2,54,Motorcyclists,M,Non Intersection,MORNINGTON PENINSULA,2,Monday,Day,1,Not at intersection,80,Clear,1,1,145.2073216,-38.34317874
+2521071.302,2400314.906,1,T20160010881,2016,2,36,Motorcyclists,M,Non Intersection,KNOX,4,Wednesday,Dark Street lights on,1,Not at intersection,80,Clear,0.333333333,3,145.2395793,-37.89803737
+2474478.477,2404541.08,1,T20160011355,2016,2,32,Motorcyclists,M,Intersection,WYNDHAM,2,Monday,Dark No street lights,1,T intersection,50,Raining,1,1,144.7099686,-37.85984904
+2698920.069,2558013.87,1,T20160013003,2016,2,50,Motorcyclists,M,Non Intersection,TOWONG,2,Monday,Day,1,Not at intersection,100,Clear,0.5,2,147.2195005,-36.45625265
+2488163.22,2414479.572,1,T20160015973,2016,3,18,Pillion Passengers,M,Intersection,MOONEE VALLEY,6,Friday,Dark Street lights on,1,T intersection,60,Clear,0.5,2,144.8656437,-37.77057787
+2396495.023,2435442.029,1,T20160016146,2016,3,22,Motorcyclists,M,Non Intersection,BALLARAT,7,Saturday,Dark Street lights on,1,Not at intersection,60,Clear,1,1,143.8281284,-37.57602981
+2480518.766,2417384.335,1,T20160017663,2016,3,37,Motorcyclists,M,Intersection,BRIMBANK,6,Friday,Day,1,T intersection,70,Clear,0.5,2,144.7789502,-37.7442767
+2507586.788,2397401.303,1,T20160018510,2016,3,33,Motorcyclists,M,Intersection,KINGSTON,4,Wednesday,Dark Street lights on,1,T intersection,60,Clear,0.5,2,145.0862915,-37.92449586
+2494693.485,2426114.773,1,T20160018684,2016,3,25,Motorcyclists,M,Intersection,HUME,6,Friday,Day,1,T intersection,60,Clear,0.5,2,144.9398505,-37.66580033
+2507485.879,2398963.736,1,T20160018740,2016,3,26,Motorcyclists,M,Non Intersection,MONASH,6,Friday,Dark Street lights on,1,T intersection,60,Clear,0.5,2,145.0851279,-37.91041973
+2487271.163,2419334.033,1,T20160018752,2016,3,25,Motorcyclists,M,Non Intersection,BRIMBANK,6,Friday,Dark Street lights on,1,Not at intersection,80,Clear,1,1,144.8556018,-37.72682608
+2503287.84,2396426.274,1,T20160019601,2016,3,43,Motorcyclists,M,Intersection,GLEN EIRA,4,Wednesday,Day,1,T intersection,70,Clear,0.5,2,145.0374,-37.93330563
+2522606.548,2413614.874,1,T20160020268,2016,3,42,Motorcyclists,M,Non Intersection,MAROONDAH,6,Friday,Dark Street lights on,1,Not at intersection,50,Clear,0.2,5,145.2566273,-37.77816968
+2522987.436,2470497.212,1,T20160020878,2016,3,41,Motorcyclists,M,Non Intersection,MURRINDINDI,1,Sunday,Day,1,Not at intersection,100,Clear,0.5,2,145.259193,-37.26559585
+2415634.454,2335263.044,1,T20160022718,2016,4,43,Motorcyclists,M,Non Intersection,SURF COAST,5,Thursday,Day,1,Not at intersection,60,Clear,0.5,2,144.0332895,-38.48043038
+2478025.845,2409612.094,1,T20160022837,2016,4,65,Motorcyclists,M,Non Intersection,WYNDHAM,6,Friday,Day,1,Not at intersection,80,Raining,0.25,4,144.7504324,-37.81425019
+2514610.044,2358687.282,1,T20160024171,2016,4,25,Motorcyclists,M,Non Intersection,MORNINGTON PENINSULA,4,Wednesday,Day,1,Not at intersection,80,Clear,0.5,2,145.1669454,-38.27318001
+2503930.431,2400064.476,1,T20160024521,2016,4,32,Motorcyclists,M,Intersection,GLEN EIRA,1,Sunday,Day,1,Cross intersection,60,Clear,0.5,2,145.0446902,-37.90052425
+2515677.669,2410731.94,1,T20160025997,2016,4,61,Motorcyclists,M,Intersection,MANNINGHAM,5,Friday,Day,1,Multiple intersection,80,Clear,0.5,2,145.1780328,-37.80428774
+2501512.431,2408199.359,1,T20160026589,2016,4,25,Motorcyclists,M,Intersection,YARRA,6,Friday,Day,1,T intersection,60,Clear,0.5,2,145.0171801,-37.82723724
+2511904.931,2425015.961,1,T20160026708,2016,4,45,Motorcyclists,M,Non Intersection,NILLUMBIK,1,Sunday,Day,1,Not at intersection,70,Clear,1,1,145.1349603,-37.6756403
+2634685.978,2604224.711,1,T20160026749,2016,4,48,Motorcyclists,M,Intersection,INDIGO,1,Sunday,Day,1,Cross intersection,100,Clear,0.333333333,3,146.4948437,-36.05114466
+2502805.838,2449565.29,1,T20160027235,2016,4,61,Motorcyclists,M,Non Intersection,WHITTLESEA,1,Sunday,Dark No street lights,1,Not at intersection,100,Clear,1,1,145.0317157,-37.45450086
+2470028.576,2376131.342,1,T20160027925,2016,4,44,Motorcyclists,M,Non Intersection,GEELONG,3,Tuesday,Day,1,Not at intersection,50,Raining,0.5,2,144.6582405,-38.11566759
+2601211.56,2461093.396,1,T20160028128,2016,4,40,Motorcyclists,M,Non Intersection,MANSFIELD,6,Friday,Day,2,Not at intersection,100,Clear,0.4,5,146.1424233,-37.34514862
+2601211.56,2461093.396,1,T20160028128,2016,4,32,Motorcyclists,M,Non Intersection,MANSFIELD,6,Friday,Day,2,Not at intersection,100,Clear,0.4,5,146.1424233,-37.34514862
+2501046.176,2392404.81,1,T20170001303,2017,1,75,Motorcyclists,M,Intersection,BAYSIDE,7,Saturday,Day,1,Not at intersection,60,Clear,0.25,4,145.0119062,-37.96954224
+2470759.289,2402742.37,1,T20170001490,2017,1,41,Motorcyclists,M,Intersection,WYNDHAM,3,Tuesday,Day,1,T intersection,60,Clear,0.5,2,144.667632,-37.8759455
+2516927.277,2395548.66,1,T20170002884,2017,1,33,Motorcyclists,M,Intersection,DANDENONG,2,Monday,Day,1,T intersection,60,Clear,0.25,4,145.1925718,-37.94106412
+2484937.796,2417191.277,1,T20170008250,2017,2,40,Motorcyclists,M,Intersection,BRIMBANK,3,Tuesday,Dark Street lights on,1,T intersection,60,Clear,0.5,2,144.829088,-37.74609817
+2530696.751,2415914.471,1,T20170008897,2017,2,49,Motorcyclists,M,Intersection,YARRA RANGES,6,Friday,Day,1,T intersection,50,Clear,0.5,2,145.3483702,-37.7572183
+2238197.689,2803803.676,1,T20170009061,2017,2,68,Motorcyclists,M,Intersection,MILDURA,2,Monday,Day,1,Cross intersection,60,Clear,0.333333333,3,142.1610105,-34.22730847
+2504224.534,2415306.287,1,T20170010240,2017,2,22,Motorcyclists,M,Non Intersection,BANYULE,5,Thursday,Day,1,T intersection,40,Clear,0.5,2,145.0479469,-37.76319466
+2520854.035,2368218.799,1,T20170010366,2017,2,42,Motorcyclists,M,Intersection,CASEY,7,Saturday,Day,1,Cross intersection,80,Clear,1,1,145.2380214,-38.18719842
+2495762.936,2412577.706,1,T20170014068,2017,3,45,Motorcyclists,M,Intersection,MELBOURNE,5,Thursday,Dark Street lights on,1,T intersection,60,Raining,0.5,2,144.9518952,-37.78777962
+2435564.852,2493878.579,1,T20170015693,2017,3,65,Motorcyclists,M,Non Intersection,MOUNT ALEXANDER,4,Wednesday,Day,1,Not at intersection,100,Clear,1,1,144.2754852,-37.05295746
+2490470.495,2412118.42,1,T20170016029,2017,3,43,Motorcyclists,M,Non Intersection,MARIBYRNONG,6,Friday,Day,1,Not at intersection,60,Raining,0.333333333,3,144.8918025,-37.79187871
+2489723.359,2409687.95,1,T20170016683,2017,3,49,Motorcyclists,M,Non Intersection,MARIBYRNONG,3,Tuesday,Dusk/Dawn,1,Not at intersection,60,Clear,0.5,2,144.8832857,-37.81376948
+2338759.865,2317750.28,1,T20170016971,2017,3,46,Motorcyclists,M,Non Intersection,CORANGAMITE,7,Saturday,Dark No street lights,1,Not at intersection,100,Clear,1,1,143.1486817,-38.62789616
+2463507.584,2425234.087,1,T20170016979,2017,3,20,Motorcyclists,M,Non Intersection,MELTON,1,Sunday,Dark Street lights on,1,Not at intersection,50,Clear,1,1,144.5863165,-37.67303648
+2450811.929,2426276.097,1,T20170017339,2017,3,52,Motorcyclists,M,Non Intersection,MOORABOOL,6,Friday,Dark Street lights on,1,Not at intersection,50,Clear,0.5,2,144.4424687,-37.66306399
+2509948.192,2413482.831,1,T20170017890,2017,3,29,Motorcyclists,M,Non Intersection,MANNINGHAM,1,Sunday,Day,1,Not at intersection,60,Clear,0.25,4,145.1129329,-37.77958079
+2493469.216,2414555.058,1,T20170018863,2017,4,32,Motorcyclists,M,Intersection,MOONEE VALLEY,3,Tuesday,Dark Street lights on,1,T intersection,40,Clear,0.333333333,3,144.9258713,-37.76995008
+2509199.106,2399523.572,1,T20170019308,2017,4,44,Motorcyclists,M,Non Intersection,MONASH,3,Tuesday,Day,1,Not at intersection,60,Clear,0.5,2,145.1046033,-37.90536041
+2445744.329,2484889.406,1,T20170021096,2017,4,60,Motorcyclists,M,Non Intersection,MOUNT ALEXANDER,1,Sunday,Day,1,Not at intersection,100,Clear,1,1,144.3892924,-37.13460956
+2768223.044,2588594,1,T20170021132,2017,4,32,Motorcyclists,M,Non Intersection,TOWONG,1,Sunday,Day,1,Not at intersection,100,Clear,0.5,2,147.9816409,-36.16368747
+2517671.597,2408208.855,1,T20170021306,2017,4,33,Motorcyclists,M,Intersection,WHITEHORSE,4,Wednesday,Day,1,Cross intersection,50,Clear,0.2,5,145.2007358,-37.82698505
+2527927.769,2408840.302,1,T20170023959,2017,4,43,Motorcyclists,M,Intersection,MAROONDAH,6,Friday,Day,1,T intersection,70,Clear,0.5,2,145.3172134,-37.82104435
+2514863.611,2444988.028,1,T20170024123,2017,4,48,Pillion Passengers,M,Non Intersection,WHITTLESEA,1,Sunday,Day,1,Not at intersection,60,Clear,0.5,2,145.1681016,-37.49563326
+2568080.383,2442516.005,1,T20170024737,2017,4,66,Motorcyclists,M,Non Intersection,MURRINDINDI,4,Wednesday,Day,2,Not at intersection,100,Clear,1,2,145.7701725,-37.51554554
+2568080.383,2442516.005,1,T20170024737,2017,4,48,Motorcyclists,M,Non Intersection,MURRINDINDI,4,Wednesday,Day,2,Not at intersection,100,Clear,1,2,145.7701725,-37.51554554
+2562444.358,2352084.39,1,T20180001194,2018,1,60,Motorcyclists,M,Non Intersection,SOUTH GIPPSLAND,7,Saturday,Day,1,Not at intersection,100,Clear,1,1,145.7140899,-38.33066381
+2626694.759,2486253.026,1,T20180001727,2018,1,55,Motorcyclists,M,Non Intersection,MOUNT BULLER,1,Sunday,Day,1,Not at intersection,60,Clear,1,1,146.4257727,-37.11533888
+2514898.4,2427304.083,1,T20180001788,2018,1,39,Motorcyclists,F,Non Intersection,NILLUMBIK,2,Monday,Day,1,Not at intersection,80,Clear,0.25,4,145.1688498,-37.65498
+2386932.505,2353640.292,1,T20180002129,2018,1,54,Motorcyclists,M,Non Intersection,COLAC OTWAY,7,Saturday,Day,1,Not at intersection,80,Clear,0.2,5,143.7073001,-38.31184318
+2554060.873,2392955.147,1,T20180003144,2018,1,30,Motorcyclists,M,Non Intersection,CARDINIA,1,Sunday,Day,1,Not at intersection,50,Clear,0.125,8,145.6152021,-37.96301086
+2348434.945,2304937.31,1,T20180003453,2018,1,52,Motorcyclists,M,Non Intersection,COLAC OTWAY,5,Thursday,Day,1,Not at intersection,80,Clear,1,1,143.2570498,-38.74491007
+2482901.739,2417918.537,1,T20180004023,2018,1,31,Motorcyclists,M,Non Intersection,BRIMBANK,6,Friday,Day,1,Not at intersection,50,Clear,1,1,144.8060016,-37.73951019
+2621263.364,2525144.682,1,T20180004564,2018,1,60,Motorcyclists,M,Non Intersection,WANGARATTA,6,Friday,Day,1,Not at intersection,100,Clear,1,1,146.3584138,-36.76559028
+2430924.26,2365179.068,1,T20180004769,2018,1,54,Motorcyclists,M,Non Intersection,SURF COAST,2,Monday,Day,1,Not at intersection,100,Clear,0.5,2,144.21132,-38.21223877
+2465397.875,2422770.054,1,T20180005238,2018,1,32,Motorcyclists,M,Non Intersection,MELTON,2,Monday,Day,1,Not at intersection,110,Clear,0.5,2,144.6076298,-37.69531058
+2570913.634,2441587.494,1,T20180006161,2018,1,56,Motorcyclists,M,Non Intersection,MURRINDINDI,7,Saturday,Day,1,Not at intersection,100,Clear,0.333333333,3,145.8023112,-37.52370125
+2380382.931,2359000.461,1,T20180007799,2018,2,51,Motorcyclists,M,Non Intersection,COLAC OTWAY,4,Wednesday,Day,1,Not at intersection,100,Clear,0.333333333,3,143.6333086,-38.26273973
+2542915.888,2435540.258,1,T20180008199,2018,2,54,Motorcyclists,M,Non Intersection,YARRA RANGES,3,Tuesday,Day,1,Not at intersection,80,Clear,0.5,2,145.4859035,-37.57989824
+2525150.298,2375904.029,1,T20180008307,2018,2,32,Motorcyclists,M,Non Intersection,CASEY,4,Wednesday,Dark Street lights on,1,Not at intersection,80,Clear,0.5,2,145.2867931,-38.11785877
+2500145.607,2416517.545,1,T20180008538,2018,2,58,Motorcyclists,M,Intersection,DAREBIN,7,Saturday,Day,1,Multiple intersection,50,Clear,0.5,2,145.0016523,-37.7522905
+2473492.277,2515192.28,1,T20180010981,2018,2,56,Motorcyclists,M,Non Intersection,BENDIGO,2,Monday,Day,1,Not at intersection,100,Clear,0.142857143,7,144.7026884,-36.86270979
+2493922.671,2408402.193,1,T20180013325,2018,3,32,Motorcyclists,M,Non Intersection,MELBOURNE,1,Sunday,Dark Street lights on,1,Not at intersection,80,Clear,1,1,144.9309677,-37.82539108
+2483776.753,2407883.897,1,T20180014012,2018,3,30,Motorcyclists,M,Non Intersection,HOBSONS BAY,5,Thursday,Dark Street lights on,1,Not at intersection,80,Raining,0.25,4,144.8157092,-37.8299393
+2521524.619,2410086.31,1,T20180014680,2018,3,21,Motorcyclists,M,Intersection,MAROONDAH,7,Saturday,Dark Street lights on,1,T intersection,70,Clear,0.5,2,145.2444482,-37.809988
+2460628.004,2423857.366,1,T20180014836,2018,3,36,Motorcyclists,M,Non Intersection,MELTON,3,Tuesday,Dusk/Dawn,1,Not at intersection,60,Clear,0.333333333,3,144.5536004,-37.68532413
+2537005.19,2489516.853,1,T20180017367,2018,3,65,Motorcyclists,M,Non Intersection,MURRINDINDI,6,Friday,Day,1,Not at intersection,100,Clear,1,1,145.4163096,-37.09374614
+2817550.144,2416305.171,1,T20180017387,2018,3,59,Motorcyclists,M,Non Intersection,EAST GIPPSLAND,6,Friday,Day,1,T intersection,100,Clear,0.333333333,3,148.6019305,-37.70006952
+2521111.41,2405479.684,1,T20180018041,2018,3,37,Motorcyclists,M,Intersection,KNOX,2,Monday,Dark Street lights on,1,Cross intersection,80,Clear,0.333333333,3,145.2398874,-37.85150295
+2563001.285,2478502.226,1,T20180018352,2018,3,44,Motorcyclists,M,Intersection,MURRINDINDI,7,Saturday,Day,1,Cross intersection,50,Clear,1,1,145.7096817,-37.19162229
+2545602.372,2430410.964,1,T20180018771,2018,4,62,Motorcyclists,M,Non Intersection,YARRA RANGES,7,Saturday,Day,1,Not at intersection,100,Clear,0.166666667,6,145.516635,-37.62598905
+2398899.195,2434815.472,1,T20180019095,2018,4,28,Motorcyclists,M,Non Intersection,BALLARAT,5,Thursday,Day,1,Not at intersection,60,Clear,0.5,2,143.8552602,-37.58193878
+2511797.25,2398003.226,1,T20180019776,2018,4,22,Motorcyclists,M,Non Intersection,MONASH,1,Sunday,Dark Street lights on,1,Not at intersection,80,Clear,0.333333333,3,145.1341712,-37.91902884
+2538912.023,2606223.014,1,T20180020188,2018,4,68,Motorcyclists,M,Non Intersection,MOIRA,7,Saturday,Day,1,Not at intersection,100,Clear,1,1,145.4318061,-36.04187
+2542397.398,2380945.019,1,T20180020565,2018,4,28,Motorcyclists,M,Non Intersection,CARDINIA,6,Friday,Day,1,Not at intersection,80,Clear,0.333333333,3,145.4831703,-38.07181713
+2512252.648,2428754.476,1,T20180020617,2018,4,37,Motorcyclists,M,Non Intersection,NILLUMBIK,7,Saturday,Day,1,Not at intersection,60,Clear,1,1,145.1388404,-37.64194959
+2546042.756,2421576.422,1,T20180021109,2018,4,29,Motorcyclists,M,Non Intersection,YARRA RANGES,1,Sunday,Day,0,Not at intersection,100,Clear,0,1,145.5221731,-37.70557048
+2709829.155,2502680.317,1,T20180021505,2018,4,62,Motorcyclists,M,Non Intersection,EAST GIPPSLAND,6,Friday,Day,1,Not at intersection,100,Clear,1,1,147.3564524,-36.95243922
+2596972.287,2399179.568,1,T20180021540,2018,4,72,Motorcyclists,M,Non Intersection,BAW BAW,7,Saturday,Day,1,Not at intersection,80,Clear,1,1,146.1026712,-37.90344542
+2603857.035,2360506.268,1,T20180021624,2018,4,61,Pillion Passengers,F,Non Intersection,BAW BAW,1,Sunday,Day,1,Not at intersection,80,Clear,0.5,2,146.18643,-38.25108011
+2625375.206,2358889.536,1,T20180021863,2018,4,26,Motorcyclists,M,Non Intersection,LATROBE,4,Wednesday,Dark No street lights,1,Not at intersection,100,Clear,1,1,146.4324907,-38.2629763
+2501943.09,2397895.656,1,T20180022512,2018,4,51,Motorcyclists,M,Intersection,BAYSIDE,6,Friday,Dark Street lights on,1,Cross intersection,80,Clear,0.5,2,145.0220992,-37.92007087
+2493916.965,2422604.915,1,T20180022591,2018,4,17,Motorcyclists,M,Non Intersection,MORELAND,1,Sunday,Day,1,Not at intersection,50,Clear,1,1,144.9310198,-37.69742121
+2148445.421,2795369.709,1,T20190000564,2019,1,51,Motorcyclists,M,Non Intersection,MILDURA,5,Thursday,Day,1,Not at intersection,110,Clear,0.5,2,141.18498,-34.27497685
+2476358.626,2402870.197,1,T20190000642,2019,1,47,Motorcyclists,F,Non Intersection,WYNDHAM,6,Friday,Day,1,Not at intersection,100,Clear,0.5,2,144.7312813,-37.87495307
+2533471.257,2566036.982,1,T20190000720,2019,1,52,Motorcyclists,M,Non Intersection,SHEPPARTON,1,Sunday,Day,1,Not at intersection,60,Clear,1,1,145.3731787,-36.40425178
+2427292.091,2434037.593,1,T20190001073,2019,1,41,Motorcyclists,M,Non Intersection,MOORABOOL,6,Friday,Day,1,Not at intersection,110,Clear,1,1,144.1766507,-37.59159226
+2215075.906,2356547.776,1,T20190001196,2019,1,20,Motorcyclists,M,Non Intersection,GLENELG,1,Sunday,Dark No street lights,1,Not at intersection,100,Clear,0.5,2,141.7446711,-38.24868169
+2465556.362,2426850.169,1,T20190001325,2019,1,62,Motorcyclists,M,Non Intersection,MELTON,3,Tuesday,Day,1,Not at intersection,50,Clear,1,1,144.6096166,-37.65855275
+2693256.445,2429495.407,1,T20190001578,2019,1,59,Motorcyclists,M,Non Intersection,EAST GIPPSLAND,7,Saturday,Day,1,Not at intersection,100,Clear,1,1,147.1893007,-37.61532986
+2512780.695,2426723.858,1,T20190001629,2019,1,65,Motorcyclists,M,Non Intersection,NILLUMBIK,1,Sunday,Day,1,Not at intersection,80,Clear,1,1,145.144859,-37.66023961
+2502856.419,2562045.25,1,T20190001893,2019,1,57,Motorcyclists,M,Intersection,SHEPPARTON,5,Thursday,Day,1,Cross intersection,100,Clear,1,1,145.0318619,-36.44081464
+2512148.52,2400805.137,1,T20190002256,2019,1,24,Motorcyclists,M,Non Intersection,MONASH,4,Wednesday,Day,1,Not at intersection,100,Clear,0.333333333,3,145.13812,-37.89378001
+2602929.283,2346730.399,1,T20190002576,2019,1,57,Motorcyclists,M,Intersection,SOUTH GIPPSLAND,1,Sunday,Day,1,T intersection,100,Clear,0.142857143,7,146.1777795,-38.3752648
+2529823.877,2404436.484,1,T20190002873,2019,1,28,Motorcyclists,M,Intersection,YARRA RANGES,5,Thursday,Day,1,T intersection,70,Clear,0.5,2,145.338928,-37.86066338
+2717888.688,2534447.89,1,T20190003466,2019,1,68,Motorcyclists,M,Non Intersection,TOWONG,5,Thursday,Day,1,Not at intersection,100,Clear,1,1,147.4377911,-36.66439843
+2511727.274,2393442.569,1,T20190003541,2019,1,24,Motorcyclists,M,Intersection,DANDENONG,7,Saturday,Day,1,T intersection,60,Clear,0.5,2,145.1334481,-37.96011915
+2470545.762,2405364.553,1,T20190003620,2019,1,26,Motorcyclists,M,Intersection,WYNDHAM,1,Sunday,Dark Street lights on,1,T intersection,50,Clear,0.5,2,144.6653097,-37.85231342
+2520764.205,2364151.366,1,T20190003695,2019,1,61,Motorcyclists,M,Non Intersection,MORNINGTON PENINSULA,2,Monday,Day,1,Not at intersection,100,Clear,0.25,4,145.2371118,-38.22384121
+2182743.702,2525532.19,1,T20190004747,2019,1,42,Motorcyclists,M,Non Intersection,WEST WIMMERA,3,Tuesday,Day,1,Not at intersection,100,Clear,1,1,141.4476091,-36.71654218
+2533716.108,2403077.845,1,T20190004969,2019,1,63,Motorcyclists,M,Non Intersection,YARRA RANGES,6,Friday,Day,1,Not at intersection,60,Clear,0.5,2,145.3832223,-37.87277141
+2508855.845,2408916.597,1,T20190006324,2019,2,26,Motorcyclists,M,Intersection,BOROONDARA,4,Wednesday,Day,1,T intersection,60,Clear,0.5,2,145.1005872,-37.820734
+2499508.416,2412066.474,1,T20190007191,2019,2,24,Motorcyclists,M,Intersection,YARRA,2,Monday,Dark Street lights on,1,Cross intersection,60,Clear,0.25,4,144.9944185,-37.79239541
+2544678.711,2565283.53,1,T20190008376,2019,2,19,Motorcyclists,M,Non Intersection,SHEPPARTON,7,Saturday,Dark No street lights,1,Not at intersection,100,Clear,0.5,2,145.4981752,-36.41058002
+2745017.096,2608283.266,1,T20190008420,2019,2,58,Motorcyclists,M,Non Intersection,TOWONG,7,Saturday,Day,1,Not at intersection,80,Clear,1,1,147.7175781,-35.99257811
+2505309.203,2398579.356,1,T20190008725,2019,2,47,Motorcyclists,M,Intersection,GLEN EIRA,5,Thursday,Day,1,T intersection,70,Clear,0.5,2,145.0603779,-37.91389785
+2490617.953,2412062.293,1,T20190008897,2019,2,26,Motorcyclists,M,Intersection,MARIBYRNONG,7,Saturday,Dark Street lights on,1,T intersection,60,Clear,0.25,4,144.893476,-37.79238591
+2544998.854,2428088.383,1,T20190009351,2019,2,31,Motorcyclists,M,Non Intersection,YARRA RANGES,7,Saturday,Day,1,Not at intersection,60,Clear,0.25,4,145.5099388,-37.64694608
+2444783.743,2381955.576,1,T20190010242,2019,2,28,Motorcyclists,M,Intersection,GEELONG,6,Friday,Dark Street lights on,1,T intersection,50,Clear,1,1,144.3708229,-38.06203849
+2523716.169,2386561.878,1,T20190010635,2019,2,30,Motorcyclists,M,Non Intersection,CASEY,5,Thursday,Dusk/Dawn,1,Not at intersection,60,Clear,0.5,2,145.2700948,-38.02188053
+2469335.053,2399734.584,1,T20190012592,2019,3,25,Motorcyclists,M,Non Intersection,WYNDHAM,7,Saturday,Day,1,Not at intersection,60,Clear,1,1,144.6513182,-37.90299883
+2528230.075,2418216.713,1,T20190013546,2019,3,40,Motorcyclists,M,Intersection,YARRA RANGES,7,Saturday,Day,1,T intersection,80,Clear,0.333333333,3,145.3202888,-37.73655261
+2501991.205,2415026.974,1,T20190015521,2019,3,47,Motorcyclists,M,Non Intersection,DAREBIN,6,Friday,Dark Street lights on,1,Not at intersection,60,Clear,1,1,145.0226002,-37.76571879
+2480646.605,2418315.198,1,T20190018287,2019,3,55,Motorcyclists,M,Non Intersection,BRIMBANK,5,Thursday,Day,1,Not at intersection,70,Clear,0.25,4,144.7804251,-37.73589202
+2562522.97,2615242.983,1,T20190019157,2019,4,47,Motorcyclists,M,Non Intersection,MOIRA,3,Tuesday,Dark No street lights,1,Not at intersection,100,Clear,1,1,145.6930802,-35.95932318
+2527904.351,2371220.881,1,T20190020081,2019,4,67,Motorcyclists,M,Intersection,CASEY,1,Sunday,Day,1,T intersection,80,Clear,0.5,2,145.3183764,-38.15996865
+2262813.181,2514099.543,1,T20190020082,2019,4,42,Motorcyclists,M,Intersection,HORSHAM,1,Sunday,Day,1,Y intersection,100,Clear,1,1,142.3400449,-36.84306578
+2424525.008,2523265.148,1,T20190021336,2019,4,64,Motorcyclists,M,Non Intersection,BENDIGO,3,Tuesday,Day,1,Not at intersection,100,Clear,0.333333333,3,144.1542935,-36.78730547
+2510511.624,2415258.788,1,T20190021633,2019,4,44,Motorcyclists,M,Intersection,MANNINGHAM,6,Friday,Day,1,T intersection,60,Clear,0.333333333,3,145.1193037,-37.76357288
+2600847.682,2365321.789,1,T20190022207,2019,4,44,Motorcyclists,M,Intersection,BAW BAW,7,Saturday,Dusk/Dawn,1,Cross intersection,60,Raining,0.5,2,146.1513902,-38.20803686
+2513151.904,2355702.713,1,T20190022992,2019,4,33,Motorcyclists,M,Non Intersection,MORNINGTON PENINSULA,2,Monday,Dark No street lights,1,Not at intersection,100,Clear,0.5,2,145.1503375,-38.30008672
+2537661.762,2413145.012,1,T20190023165,2019,4,39,Motorcyclists,M,Intersection,YARRA RANGES,4,Wednesday,Day,1,T intersection,60,Clear,0.5,2,145.4275547,-37.78191575
+2696236.869,2569342.034,1,T20190023940,2019,4,71,Motorcyclists,M,Non Intersection,TOWONG,6,Friday,Day,1,Not at intersection,100,Clear,1,1,147.1866699,-36.35474328
+2517180.897,2377494.694,1,T20190024542,2019,4,26,Motorcyclists,M,Non Intersection,FRANKSTON,5,Thursday,Dark Street lights on,1,Not at intersection,50,Clear,1,1,145.1958797,-38.10371083
+2486471.113,2417585.491,1,T20190025415,2019,4,39,Motorcyclists,M,Non Intersection,BRIMBANK,1,Sunday,Dusk/Dawn,1,Not at intersection,100,Clear,0.333333333,3,144.8464939,-37.74256973
+2492638.307,2423709.057,1,T20200000010,2020,1,26,Motorcyclists,M,Non Intersection,HUME,4,Wednesday,Dark Street lights on,1,Not at intersection,60,Clear,0.25,4,144.9165311,-37.68746314
+2511282.183,2372828.95,1,T20200000846,2020,1,38,Motorcyclists,M,Intersection,FRANKSTON,2,Monday,Day,1,T intersection,60,Smoke,0.5,2,145.1287004,-38.14583383
+2501298.504,2425031.415,1,T20200003645,2020,1,23,Motorcyclists,M,Intersection,WHITTLESEA,7,Saturday,Dark Street lights on,1,T intersection,60,Clear,0.2,5,145.0147205,-37.67557619
+2596049.222,2462691.299,1,T20200004830,2020,1,49,Motorcyclists,M,Non Intersection,MANSFIELD,6,Friday,Day,1,Not at intersection,100,Clear,1,1,146.0839534,-37.33129403
+2500554.97,2413195.911,1,T20200005703,2020,1,32,Motorcyclists,M,Intersection,DAREBIN,2,Monday,Day,1,T intersection,60,Clear,0.5,2,145.0063003,-37.78221898
+2522285.391,2400800.061,1,T20200006147,2020,1,27,Motorcyclists,M,Non Intersection,KNOX,7,Saturday,Dark Street lights on,1,Not at intersection,80,Clear,0.333333333,3,145.2533687,-37.89363795
+2443455.275,2377858.882,1,T20200006298,2020,1,54,Motorcyclists,M,Intersection,GEELONG,2,Monday,Dark Street lights on,1,Cross intersection,80,Clear,0.333333333,3,144.3553697,-38.09886447
+2515564.481,2355718.24,1,T20200006362,2020,1,21,Motorcyclists,M,Intersection,MORNINGTON PENINSULA,3,Tuesday,Dark Street lights on,1,T intersection,60,Clear,0.5,2,145.1779149,-38.29990939
+2461827.607,2423395.129,1,T20200007288,2020,1,44,Motorcyclists,F,Non Intersection,MELTON,2,Monday,Day,1,Not at intersection,60,Clear,1,1,144.5671775,-37.68953898
+2490703.299,2410817.935,1,T20200009203,2020,2,42,Motorcyclists,M,Intersection,MARIBYRNONG,2,Monday,Dusk/Dawn,1,T intersection,60,Clear,0.5,2,144.8944294,-37.80359856
+2552190.107,2403830.15,1,T20200010985,2020,2,30,Motorcyclists,M,Non Intersection,YARRA RANGES,1,Sunday,Day,1,Not at intersection,100,Clear,1,1,145.5931427,-37.86513981
+2635834.619,2365216.138,1,T20200011843,2020,2,32,Motorcyclists,M,Intersection,LATROBE,5,Thursday,Day,1,T intersection,60,Clear,0.5,2,146.5507983,-38.20451564
+2621262.256,2525123.779,1,T20200012505,2020,2,60,Motorcyclists,M,Non Intersection,WANGARATTA,1,Sunday,Day,1,T intersection,100,Clear,1,1,146.3584047,-36.76577879
